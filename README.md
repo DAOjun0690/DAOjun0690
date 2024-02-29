@@ -1,4 +1,6 @@
 ### Hi there 👋
+How About
+![我就爛](https://i.imgur.com/hvtnkHm.jpg)
 
 <!--
 **DAOjun0690/DAOjun0690** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
